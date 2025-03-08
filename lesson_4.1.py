@@ -1,4 +1,5 @@
 numbers = [9, 0, 7, 31, 0, 45, 0, 45, 0, 45, 0, 0, 96, 0]
+
 i = 0
 for item in numbers:
     if item != 0:
